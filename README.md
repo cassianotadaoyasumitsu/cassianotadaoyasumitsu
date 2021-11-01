@@ -7,4 +7,6 @@
 - 🥅 2021 Goals: Contribute more to current job
 - ⚡ Fun fact: I love music, play games end ALIENS 👽
 
+---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassianotadaoyasumitsu&layout=compact)
