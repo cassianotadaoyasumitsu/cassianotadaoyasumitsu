@@ -10,7 +10,3 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassianotadaoyasumitsu&langs_count=10&layout=compact)
-
----
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cassianotadaoyasumitsu)](https://github.com/cassianotadaoyasumitsu/github-readme-stats)
