@@ -10,7 +10,7 @@
 ---
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassianotadaoyasumitsu&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassianotadaoyasumitsu&langs_count=10&layout=compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassianotadaoyasumitsu)](https://github.com/cassianotadaoyasumitsu/github-readme-stats)
 
