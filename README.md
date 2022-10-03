@@ -10,3 +10,5 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassianotadaoyasumitsu&langs_count=10&layout=compact)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=cassianotadaoyasumitsu)
