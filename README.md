@@ -1,5 +1,5 @@
 ### Hi there, I'm Cassiano Tadao Yasumitsu 👋
-## I'm a Husband, Father, Developer, and Student!!
+## I'm a Father, Developer, and Student!!
 
 - 🔭  Aiming to the stars! ✨
 - ⚡  Fun fact: I love music, play games, end ALIENS 👽
